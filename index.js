@@ -1,7 +1,7 @@
 var Name = "Joe"
 var height = "74"
 if (name === "Susan") {
-console.log (" The Nam  
+console.log (" The Name  
   is correct ")
 }
 // Don't worry about this
